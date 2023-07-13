@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi there, I'm Greg Raiz! 👋
 
-<!--
-**graiz/graiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an entrepreneur, and tech enthusiast who loves turning abstract ideas into impcatful companies. I currently wear the hat of the General Partner at [Raiz Capital](https://Raiz.vc) where we work with early-stage founders on their journey. I run an [accelerator program](https://xlr8.raiz.vc)] for founders working in AI. 
 
-Here are some ideas to get you started:
+## A bit about my background 📚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Raizlabs:** I was the founder and CEO of Raizlabs, a leading mobile technology development and design that scored a spot on the Inc. 5000 list *four times* (not bad, eh?). We collected a bunch of accolades for innovation and excellence, and in 2017, I sold the business but stuck around as the Chief Innovation Officer of the acquiring firm.
+- **Techstars Boston:** I spent some time as the Managing Director of Techstars Boston, supporting startups to reach their highest potential.
+- **Product Development:** I've helped bring hundreds of products to life, including apps for some big names you might know like AAA, Dunkin Donuts, and Macy's. I'm a bit of a tech whisperer - mobile, AI, VR, you name it.
+- **Education:** I'm a proud alumnus of Tufts University, with an engineering degree in Computer Science.
+
+## Giving Back & Staying Connected 💼🚀
+
+My love for Boston's startup scene runs deep. I've enjoyed my time as an active angel investor and advisor, and I'm always excited to meet companies passionate about shaping the future of software. 
+
+## Speaking & Engaging 🎤💡
+
+My journey has taken me to many stages as a speaker. I've had the pleasure of engaging thousands of executives and tech leaders on all things innovation and the future of technology. 
+
+## Stay Connected 🌍
+
+Let's keep the conversation going! You can find me on:
+
+- My personal blog: [gregraiz.com](https://gregraiz.com/)
+- YouTube: [HalfIdeas](https://www.youtube.com/HalfIdeas)
+- Twitter: [@graiz](http://www.twitter.com/graiz)
+- LinkedIn: [Greg Raiz](https://www.linkedin.com/in/graiz)
+
+See you around! 😊
