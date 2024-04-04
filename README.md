@@ -1,6 +1,6 @@
 # Hi there, I'm Greg Raiz! 👋
 
-I'm an entrepreneur, and tech enthusiast who loves turning abstract ideas into impcatful companies. I currently wear the hat of the General Partner at [Raiz Capital](https://Raiz.vc) where we work with early-stage founders on their journey. I run an [accelerator program](https://xlr8.raiz.vc)] for founders working in AI. 
+I'm an entrepreneur, and tech enthusiast who loves turning abstract ideas into impcatful companies. I currently wear the hat of the General Partner at [Raiz Capital](https://Raiz.vc) where we work with early-stage founders on their journey. I run an [cohort program](https://xlr8.raiz.vc)] for founders working in AI. 
 
 ## A bit about my background 📚
 
@@ -11,7 +11,7 @@ I'm an entrepreneur, and tech enthusiast who loves turning abstract ideas into i
 
 ## Giving Back & Staying Connected 💼🚀
 
-My love for Boston's startup scene runs deep. I've enjoyed my time as an active angel investor and advisor, and I'm always excited to meet companies passionate about shaping the future of software. 
+My love for Boston's startup scene runs deep. I've enjoyed my time as an active angel investor and advisor, and I'm always excited to meet companies passionate about shaping the future of software.  I also have deep ties to California from opening my Oakland office to the many empolyees, co-workers and companies I've collaborated with. 
 
 ## Speaking & Engaging 🎤💡
 
@@ -25,5 +25,6 @@ Let's keep the conversation going! You can find me on:
 - YouTube: [HalfIdeas](https://www.youtube.com/HalfIdeas)
 - Twitter: [@graiz](http://www.twitter.com/graiz)
 - LinkedIn: [Greg Raiz](https://www.linkedin.com/in/graiz)
+- TikTok: [@gregraiz](https://www.tiktok.com/@gregraiz)
 
 See you around! 😊
