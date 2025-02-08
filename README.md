@@ -1,6 +1,6 @@
 # Hi there, I'm Greg Raiz! 👋
 
-I'm an entrepreneur, and tech enthusiast who loves turning abstract ideas into impcatful companies. I currently wear the hat of the General Partner at [Raiz Capital](https://Raiz.vc) where we work with early-stage founders on their journey. I run an [cohort program](https://xlr8.raiz.vc)] for founders working in AI. 
+I'm an entrepreneur, and tech enthusiast who loves turning abstract ideas into impcatful companies. I currently wear the hat of the General Partner at [Raiz Capital](https://Raiz.vc) where we work with early-stage founders on their journey. I run an [cohort program](https://xlr8.raiz.vc) for founders working in AI. 
 
 ## A bit about my background 📚
 
