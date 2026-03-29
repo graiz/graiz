@@ -10,6 +10,8 @@ I've founded, scaled, and sold companies. Now I help others do the same.
 
 - **[FoundersEdge AI tools](https://foundersedge.com)** — building AI-assisted deal sourcing and founder evaluation pipelines
 - **Chief of Staff AI** — personal AI agent for VC workflow automation (Claude + Airtable + Attio)
+- **ESP32 Pixelboard** - what do you get when you combine a retro 16x16 display with an ESP32
+- **[Personal Blog - GregRaiz.com](http://www.gregraiz.com)** - a personal blog with ideas and writing
 - **[HalfIdeas](https://www.youtube.com/HalfIdeas)** — short-form content exploring half-baked ideas in AI and product
 
 > *What are you building? I'm always interested in what founders are working on — reach out.*
@@ -38,9 +40,11 @@ We believe *founders are the unfair advantage for future founders*. Hands-on sup
 
 Deeply involved in Boston's startup ecosystem:
 
-- **[Ditch the Deck](https://ditchthedeck.com)** — founder storytelling events
+- **Ditch the Deck** — founder storytelling events
 - **Funders & Founders** — connecting capital and builders over food
 - **PEF Boston** — co-host, community for post-exit founders, investors & operators
+- **3IP Boston**(https://www.3ip.boston) — a random gathering of interesting people
+   
 
 I speak regularly on **AI-first product design**, **startup investing**, and **the future of technology**. Reach out if you want me at your event.
 
